@@ -1,4 +1,4 @@
-# scripts
+# Evil-Twin
 
 This script will help you set up an evil twin access point.
 
